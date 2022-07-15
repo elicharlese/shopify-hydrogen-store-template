@@ -1,6 +1,6 @@
-import {Image, Link} from '@shopify/hydrogen';
+import { Image, Link } from '@shopify/hydrogen';
 
-export function ArticleCard({blogHandle, article, loading}) {
+export function ArticleCard({ blogHandle, article, loading }) {
   return (
     <li key={article.id}>
       <Link to={`/${blogHandle}/${article.handle}`}>
