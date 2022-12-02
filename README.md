@@ -1,4 +1,4 @@
-# shopify-hydrogen-ece
+# ECE | Shopify Store Template
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/shopify-hydrogen-wqnclz)
 
